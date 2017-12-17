@@ -11,7 +11,7 @@
 </head>
 <body>
 <div class="container">
-    <h1 class="text-center">Witajcie na stronie frątowej.</h1>
+    <h1 class="text-center">Witajcie na stronie frontowej.</h1>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0af97d4d-b497-4153-b268-1eb59f50e277" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/View/footer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/View/gallery.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/View/user.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AppBundle/Controllers/Kontrolery/Gallery.php" afterPath="$PROJECT_DIR$/AppBundle/Controllers/Kontrolery/Gallery.php" />
-      <change beforePath="$PROJECT_DIR$/AppBundle/Controllers/Kontrolery/User.php" afterPath="$PROJECT_DIR$/AppBundle/Controllers/Kontrolery/User.php" />
-      <change beforePath="$PROJECT_DIR$/AppBundle/Controllers/MainControllers/View.php" afterPath="$PROJECT_DIR$/AppBundle/Controllers/MainControllers/View.php" />
-      <change beforePath="$PROJECT_DIR$/AppBundle/Controllers/MainControllers/ViewHeader.php" afterPath="$PROJECT_DIR$/AppBundle/Controllers/MainControllers/ViewHeaderFooter.php" />
-      <change beforePath="$PROJECT_DIR$/View/main.php" afterPath="$PROJECT_DIR$/View/main.php" />
+      <change beforePath="$PROJECT_DIR$/View/header.php" afterPath="$PROJECT_DIR$/View/header.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/View/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="229">
+              <caret line="13" column="57" lean-forward="false" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -58,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gallery.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/View/gallery.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
@@ -150,7 +142,6 @@
         <option value="$PROJECT_DIR$/View/Index.php" />
         <option value="$PROJECT_DIR$/AppBundle/Controllers/model/Model.php" />
         <option value="$PROJECT_DIR$/AppBundle/Controllers/MainControllers/Router.php" />
-        <option value="$PROJECT_DIR$/View/header.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/AppBundle/Controllers/Kontrolery/Index.php" />
         <option value="$PROJECT_DIR$/AppBundle/Controllers/MainControllers/ViewFooter.php" />
@@ -162,6 +153,7 @@
         <option value="$PROJECT_DIR$/View/main.php" />
         <option value="$PROJECT_DIR$/View/user.php" />
         <option value="$PROJECT_DIR$/View/gallery.php" />
+        <option value="$PROJECT_DIR$/View/header.php" />
       </list>
     </option>
   </component>
@@ -217,27 +209,6 @@
               <item name="mvc" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="mvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Kontrolery" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="mvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="MainControllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="mvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="mvc" type="b2602c69:ProjectViewProjectNode" />
@@ -310,12 +281,12 @@
       <workItem from="1513429765555" duration="772000" />
       <workItem from="1513433383407" duration="1447000" />
       <workItem from="1513491612793" duration="1002000" />
-      <workItem from="1513492889482" duration="9363000" />
+      <workItem from="1513492889482" duration="9848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42226000" />
+    <option name="totallyTimeSpent" value="42711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -631,14 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/View/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/View/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -666,6 +629,14 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="13" column="57" lean-forward="false" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
