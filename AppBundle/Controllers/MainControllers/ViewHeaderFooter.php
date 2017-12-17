@@ -8,11 +8,17 @@
 namespace AppBundle\MainControllers;
 
 
-class ViewHeader {
+class ViewHeaderFooter {
 
-	public function __construct() {
+	public function getHeader() {
 
 		require_once DIR_PATH . '../View/header.php';
+
+	}
+
+	public function getFooter() {
+
+		require_once DIR_PATH . '../View/footer.php';
 
 	}
 

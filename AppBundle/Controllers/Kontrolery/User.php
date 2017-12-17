@@ -16,7 +16,7 @@ class User extends Model {
 
 	public function __construct() {
 
-		echo 'Jestem konstruktorem klasy: ' . __CLASS__;
+		require_once DIR_PATH . '../View/user.php';
 
 	}
 

@@ -16,7 +16,7 @@ class Gallery extends Model {
 
 	public function __construct() {
 
-		echo 'Jestem konstruktorem klasy: ' . __CLASS__;
+		require_once DIR_PATH . '../View/gallery.php';
 
 	}
 

@@ -9,16 +9,18 @@
 namespace AppBundle\MainControllers;
 
 
-use AppBundle\MainControllers\ViewHeader;
+use AppBundle\MainControllers\ViewHeaderFooter;
 
 
-class View extends ViewHeader{
+class View extends ViewHeaderFooter {
 
 	public function __construct() {
 
-		parent::__construct();
+		parent::getHeader();
 
 		$index = new Router();
+
+		parent::getFooter();
 
 	}
 
