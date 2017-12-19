@@ -8,8 +8,10 @@
 
 namespace MVC\clas;
 
+use MVC\model\Model;
 
-class About {
+
+class About extends Model {
 
 	public function __construct() {
 

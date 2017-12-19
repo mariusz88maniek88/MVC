@@ -8,6 +8,7 @@
 
 namespace MVC\clas;
 
+use MVC\model\Model;
 
 class Contact {
 
