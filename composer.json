@@ -1,7 +1,10 @@
 {
   "autoload": {
     "psr-4": {
-      "AppBundle\\": "AppBundle/Controllers"
+      "MVC\\": "app/src"
     }
+  },
+  "require": {
+    "twig/twig": "~2.0"
   }
 }
