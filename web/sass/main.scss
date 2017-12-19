@@ -1,0 +1,17 @@
+/* Style CSS */
+@import "variables.scss";
+@import "mixins.scss";
+@import "global.scss";
+
+/* Header */
+@import "includes/header";
+
+/* Pages */
+@import "includes/home";
+@import "includes/about";
+@import "includes/user";
+@import "includes/contact";
+@import "includes/gallery";
+
+/* Footer */
+@import "includes/footer";
